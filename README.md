@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**BALAJI24092001/BALAJI24092001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BALAJI24092001/BALAJI24092001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with animations using css...
 - 📫 How to reach me: 
 - Gmail: dbalajivarprasad@gmail.com
--->
+
