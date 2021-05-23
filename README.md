@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**BALAJI24092001/BALAJI24092001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**BALAJI24092001/BALAJI24092001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  -->
 
 - 🔭 I’m currently working on my second Portfolio only using grids...
 - 🌱 I’m currently learning JAVA SCRIPT...
