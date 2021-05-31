@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:  -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BALAJI24092001&color=yellow&style=flat-square&label=PROFILE+VIEWS" alt="BALAJI24092001" /> </p>
 
 
 - 🔭 I’m currently working on second itteration of my Portfolio (only using Grids of HTML)...
