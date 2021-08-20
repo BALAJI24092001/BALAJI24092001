@@ -13,13 +13,12 @@ Here are some ideas to get you started:  -->
 - 🤔 I’m looking for help with Data Analysis using Pandas...
 - 📫 How to reach me: Gmail: dbalajivarprasad@gmail.com
 
-<br>
 
 
 ![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=algolia&show_icons=true)
 
 
-<br><br>
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI24092001&layout=comp)
