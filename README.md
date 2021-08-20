@@ -17,5 +17,6 @@ Here are some ideas to get you started:  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI24092001&layout=compact&hide=html" alt="BALAJI24092001" /></p>
 
+<br><br>
 
-![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=outrun&show_icons=true)
+![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=Gradient&show_icons=true)
