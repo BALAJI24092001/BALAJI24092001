@@ -19,4 +19,4 @@ Here are some ideas to get you started:  -->
 
 <br><br>
 
-![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=Gradient&show_icons=true)
+![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=gradient&show_icons=true)
