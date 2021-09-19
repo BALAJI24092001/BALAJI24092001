@@ -18,10 +18,7 @@ Here are some ideas to get you started:  -->
 ![24092001BALAJI](https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=algolia&show_icons=true)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALAJI24092001&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI24092001&layout=c)]
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALAJI24092001&theme=tokyonight)]
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=BALAJI24092001&theme=rogue)
