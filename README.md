@@ -17,11 +17,11 @@
 
 
 
-<p><img align="center" height='200' src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji24092001&show_icons=true&locale=en&layout=compact" alt="balaji24092001" /></p>
+<p align="center"><img align="center" height='200' src="https://github-readme-stats.vercel.app/api/top-langs?username=balaji24092001&show_icons=true&locale=en&layout=compact" alt="balaji24092001" /></p>
 
-<p>&nbsp;<img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=balaji24092001&show_icons=true&locale=en" alt="balaji24092001" /></p>
+<p align="center">&nbsp;<img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=balaji24092001&show_icons=true&locale=en" alt="balaji24092001" /></p>
 
-<p><img align="center" height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=balaji24092001&" alt="balaji24092001" /></p>
+<p align="center"><img align="center" height='200' src="https://github-readme-streak-stats.herokuapp.com/?user=balaji24092001&" alt="balaji24092001" /></p>
 
 
 
