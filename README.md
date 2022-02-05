@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/balajivarapras9" target="blank"><img src="https://img.shields.io/twitter/follow/balajivarapras9?logo=twitter&style=for-the-badge" alt="balajivarapras9" /></a> </p>
 
-- 🔭 I’m currently working on [Perception analysis using multiple linear regression](https://github.com/BALAJI24092001/Student-Perception-Analysis)
+- 🔭 I’m currently working on [JDSA](https://github.com/BALAJI24092001/jdsa)
 
-- 🌱 I’m currently learning **Machine learning unsupervised methods**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **NULL**
 
 - 📫 How to reach me **dbalajivaraprasad@gmail.com**
 
