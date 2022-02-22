@@ -13,14 +13,12 @@
 
 - 📫 How to reach me **dbalajivaraprasad@gmail.com**
 
-- 📄 Know about my experiences [https://balaji24092001.github.io/Portfolio-V2/](https://balaji24092001.github.io/Portfolio-V2/)
+- 📄 Know about my experiences [click here](https://balaji24092001.github.io/Portfolio-V2/)
 
 <div>
 
 
 <!-- <p align="center">&nbsp;<img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=balaji24092001&show_icons=true&locale=en" alt="balaji24092001" /></p> -->
-
-<p align='center' ><img height='200' align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=balaji24092001&" alt="balaji24092001" /></p>
 
 
 
@@ -36,6 +34,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
@@ -45,6 +44,7 @@
 <div align='center'>
 
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
