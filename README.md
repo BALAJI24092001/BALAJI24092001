@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm BALAJI</h1>
 <h3 align="center">A student from India passionate about data science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balaji24092001&label=Profile%20views&color=0e75b6&style=flat" alt="balaji24092001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/balajivarapras9" target="blank"><img src="https://img.shields.io/twitter/follow/balajivarapras9?logo=twitter&style=for-the-badge" alt="balajivarapras9" /></a> </p>
 
 - 🔭 I’m currently working on [JDSA](https://github.com/BALAJI24092001/jdsa)
 
