@@ -17,7 +17,7 @@
 
 <!-- <p align="center">&nbsp;<img align="center" height='200' src="https://github-readme-stats.vercel.app/api?username=balaji24092001&show_icons=true&locale=en" alt="balaji24092001" /></p> -->
 
-
+> *"Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion,' and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make." - Irving John Good*
 
 <div>
 <br>
