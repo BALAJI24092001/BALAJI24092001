@@ -13,8 +13,17 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 ### Connect
 
 <a href="https://www.linkedin.com/in/balaji24092001/">
-  <img align="left" alt="Balaji's LinkedIn" width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+  <img align="left" alt="Balaji's LinkedIn" width="40px" height="40px padding=10px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" />
 </a>
+
+<a href="https://x.com/BALAJI240901">
+  <img align="left" alt="Balaji's X" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/4076/PNG/512/twitter_x_logo_icon_258917.png" />
+</a>
+
+<a href="https://www.kaggle.com/balajivaraprasad">
+  <img align="left" alt="Balaji's Kaggle" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168473.png" />
+</a>
+
 <br/>
 
 ### GitHub Stats
