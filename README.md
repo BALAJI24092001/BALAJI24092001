@@ -27,16 +27,16 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 <br/>
 
 ### GitHub Stats
-<div align = "center">
-<table class="center" style="width:100%;">
+<div align = "center" style="">
+<table class="center" style="width:100%, border: none;", border = "0">
   <tr>
     <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BALAJI24092001&count_private=true&show_icons=true&theme=onedark&hide_border=false" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=tokyonight&hide_title=true" />
     </td>
     <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJI24092001&langs_count=4&theme=onedark&hide_border=false" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BALAJI24092001&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_title=true" />
 </td>
   </tr>
 </table>
 </div>
-<!-- layout=compact& -->
+
