@@ -34,7 +34,7 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=BALAJI24092001&theme=tokyonight&hide_title=true" />
     </td>
     <td align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BALAJI24092001&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_title=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BALAJI24092001&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_title=true&hide=jupyter%20notebook" />
 </td>
   </tr>
 </table>
