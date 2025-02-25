@@ -13,7 +13,7 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 ### Connect
 
 <a href="https://www.linkedin.com/in/balaji24092001/">
-  <img align="left" alt="Balaji's LinkedIn" width="40px" height="40px padding=10px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/linkedin_icon-icons.com_53609.png" />
+  <img align="left" alt="Balaji's LinkedIn" width="40px" height="40px padding=10px" src="" />
 </a>
 
 <a href="https://x.com/BALAJI240901">
@@ -38,6 +38,16 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 </td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BALAJI24092001/BALAJI24092001/snake-game/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BALAJI24092001/BALAJI24092001/snake-game/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BALAJI24092001/BALAJI24092001/snake-game/github-contribution-grid-snake.svg">
+</picture>
+  
 </div>
+
+
+
 
 <!--&hide=jupyter%20notebook-->
