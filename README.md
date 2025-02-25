@@ -5,28 +5,13 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
 
 <div>
 
-> *"Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion,' and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make." - Irving John Good*
+> _"Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion,' and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make." - Irving John Good_
 
 <div>
 <br>
 
-### Connect
-
-<a href="https://www.linkedin.com/in/balaji24092001/">
-  <img align="left" alt="Balaji's LinkedIn" width="40px" height="40px padding=10px" src="" />
-</a>
-
-<a href="https://x.com/BALAJI240901">
-  <img align="left" alt="Balaji's X" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/4076/PNG/512/twitter_x_logo_icon_258917.png" />
-</a>
-
-<a href="https://www.kaggle.com/balajivaraprasad">
-  <img align="left" alt="Balaji's Kaggle" width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kaggle_logo_icon_168473.png" />
-</a>
-
-<br/>
-
 ### GitHub Stats
+
 <div align = "center" style="">
 <table class="center" style="width:100%, border: none;", border = "0">
   <tr>
@@ -47,7 +32,26 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
   
 </div>
 
+### Connect
 
+<a href="https://www.linkedin.com/in/balaji24092001/">
+  <img align="left" alt="Balaji's LinkedIn" width="50px" height="50px padding=10px" style="padding-left:20px" src="./assets/linkedin.svg" />
+</a>
 
+<a href="https://x.com/BALAJI240901">
+  <img align="left" alt="Balaji's X" width="50px" height="50px" style="padding-left:20px" src="./assets/twitter-x.svg" />
+</a>
 
+<a href="https://www.kaggle.com/balajivaraprasad">
+  <img align="left" alt="Balaji's Kaggle" width="50px" height="50px" style="padding-left:20px" src="./assets/kaggle.svg" />
+</a>
+
+<a href="https://discordapp.com/users/dbalajivaraprasad">
+  <img align="left" alt="Balaji's Discord" width="50px" height="50px" style="padding-left:20px" src="./assets/discord.svg" />
+</a>
+
+<a href="https://thetensortribune.substack.com/">
+  <img align="left" alt="Balaji's Substack" width="50px" height="50px"  style="padding-left:20px" src="./assets/substack.svg" />
+</a>
+<br/>
 <!--&hide=jupyter%20notebook-->
