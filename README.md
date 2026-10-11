@@ -1,14 +1,27 @@
 <h1 align="center">Hi 👋, I'm BALAJI</h1>
-<h3 align="center">A student from India passionate about data science.</h3>
+<h3 align="center">Student | AI/ML enthusiast | Professional overthinker of interesting problems.</h3>
+I'm interested in what happens when math, code, and data come together.
 
-I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing.
+```bash
+$ whoami
+balaji — student, AI/ML enthusiast
 
-<div>
+$ cat current_status.txt
+Learning the math.
+Building the models.
+Debugging the code.
+Repeating until it works.
+```
 
-> _"Let an ultraintelligent machine be defined as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an 'intelligence explosion,' and the intelligence of man would be left far behind. Thus the first ultraintelligent machine is the last invention that man need ever make." - Irving John Good_
+```bash
+balaji@github:~$ ./explore --field artificial-intelligence
 
-<div>
-<br>
+[INFO] Curiosity initialized.
+[INFO] Exploring machine learning, deep learning & intelligent systems...
+[INFO] Currently learning. Constantly building.
+[STATUS] Looking for interesting problems to solve.
+```
+
 
 ### GitHub Stats
 
@@ -32,14 +45,12 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
   
 </div>
 
+*Curiosity in, code out. Results may contain bugs.*
+
 ### Connect
 
 <a href="https://www.linkedin.com/in/balaji24092001/">
   <img align="left" alt="Balaji's LinkedIn" width="50px" height="50px padding=10px" style="padding-left:20px" src="./assets/linkedin.svg" />
-</a>
-
-<a href="https://x.com/BALAJI240901">
-  <img align="left" alt="Balaji's X" width="50px" height="50px" style="padding-left:20px" src="./assets/twitter-x.svg" />
 </a>
 
 <a href="https://www.kaggle.com/balajivaraprasad">
@@ -50,8 +61,5 @@ I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, C
   <img align="left" alt="Balaji's Discord" width="50px" height="50px" style="padding-left:20px" src="./assets/discord.svg" />
 </a>
 
-<a href="https://thetensortribune.substack.com/">
-  <img align="left" alt="Balaji's Substack" width="50px" height="50px"  style="padding-left:20px" src="./assets/substack.svg" />
-</a>
 <br/>
 <!--&hide=jupyter%20notebook-->
